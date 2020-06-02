@@ -34,7 +34,13 @@ html{
 
 .title-formacao{
     margin-top: 10%;
-    margin-left: 10%;
+    font-size: 40px !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: white;
+}
+.title-atividades{
+    margin-top: 10%;
     font-size: 40px !important;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 500;
@@ -43,7 +49,14 @@ html{
 
 .title-experiencias{
     margin-top: 10%;
-    margin-right: 10%;
+    font-size: 40px !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: white;
+}
+
+.title-contato{
+    margin-top: 10%;
     font-size: 40px !important;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 500;
